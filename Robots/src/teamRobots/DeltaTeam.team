@@ -1,0 +1,7 @@
+#Robocode robot team
+#Sun Aug 20 23:26:53 EST 2006
+team.members=teamRobots.Tenente,teamRobots.Atirador,teamRobots.Sargento,teamRobots.Soldado,teamRobots.Cabo
+team.author.name=André Pimenta and Cedric Pimenta and Rafael Abreu
+robocode.version=1.1.2
+team.webpage=
+team.description=\                            A sample team.\n                  MyFirstLeader scans for enemies,\n                  and orders the 4 droids to fire.
